@@ -23,7 +23,7 @@ android {
 }
 
 dependencies {
-    implementation 'com.facebook.react:react-native:+',
+    implementation 'com.facebook.react:react-native:+'
     implementation 'androidx.annotation:annotation:1.0.2'
     implementation 'androidx.appcompat:appcompat:1.0.2'
 }
